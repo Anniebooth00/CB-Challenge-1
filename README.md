@@ -32,9 +32,17 @@ The title element should be concise and descriptive.
 
 [Link to Site](https://anniebooth00.github.io/CB-Challenge-1/)
 
+## Usage
+
+Is intended for the grader to assess the completion of the assignment.
+
 ## License
 
 The project is licensed under MIT License.
+
+## Credit
+
+Original code from course curriculum.
 
 ## Contact 
 
